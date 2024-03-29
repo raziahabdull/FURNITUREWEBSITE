@@ -1,0 +1,86 @@
+.centered{
+    .centered {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+}
+button{
+ background-color: rgb(173,111,54);
+ size: 20%;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+#reasons{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.productdisplay{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.Vimage1{
+    object-fit: cover;
+    margin-left: 20%;
+}
+.leatherroom{
+    display: flex;
+
+}
+.bedroom{
+ display: flex;
+ margin-top: 10%;
+
+}
+.description2{
+    margin-left: 20%;
+}
+.diningroom{
+    display: flex;
+}
+.Vimage3{
+    margin-left: 20%;
+    margin-top: 10%;
+
+}
+.testimonials{
+    background-color: rgb(213,194,177);
+    height: 48vh;
+    margin-top: 10%;
+
+    
+}
+.test1{
+    background-color: antiquewhite;
+    height:15vh;
+    margin-right: 70%;
+}
+.test2{
+    background-color: antiquewhite;
+    height:15vh;
+    margin-right: 70%; 
+}
+.test3{
+    background-color: antiquewhite;
+    height:10vh;
+    margin-right: 70%;
+}
+.Vimage4{
+    margin-top: 10%;
+}
+.pics3{
+    display: grid;
+    margin-left: 20%;
+    margin-top: 10%;
+    
+}
+.images3{
+    display: flex;
+}
+.mainfooter{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: rgb(78, 77, 77);
+}
